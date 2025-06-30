@@ -9,7 +9,7 @@ This repository contains the exploratory data analysis performed on the Titanic 
 ## 📁 Repository Contents
 
 - `Exploratory_data_analysis(task5).ipynb` – Jupyter Notebook containing full EDA with code, plots, and insights.
-- `EDA(task5).pdf` – A polished PDF report summarizing the entire EDA with visual interpretations.
+- `EDA(task5).pdf` – A polished PDF report summarizing the entire EDA on the Titanic dataset.
 - `titanic.zip` – Zipped folder containing the original dataset (`train.csv`) used for analysis.
 - `README.md` – Overview of the project, objectives, insights, and file descriptions.
 
